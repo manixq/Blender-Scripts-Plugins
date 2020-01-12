@@ -9,7 +9,7 @@ Shortcut: Shift+Num_0
 
 ## ViceCityIPLGenerator
 
-Select objects in blenders and execute to generate .ipl file.
+Select objects in blender and execute to generate .ipl file.
 
 For unique Id, ModelName, Interior use:
 Object Properties -> Custom Properties
